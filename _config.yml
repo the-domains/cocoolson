@@ -1,44 +1,28 @@
-typography_spectrum: 0.4085106
+name: CocoOlson
+favicon: null
+layout_spectrum: 0.7192366712260991
+typography_spectrum: 0.6368828220292926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9250397600699216
-  brandStrength: 0.988087160512805
-  rhythmicContrast: 0.4404312854167074
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  brandStrength: 0.988087160512805
   lightness: 0.3096365425735712
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: CocoOlson
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: 'Coco Olson, Artist'
-description: >-
-  "If you want to find the secrets of the universe, think in terms of energy
-  frequency and vibration"  Nicola Tesla
+  saturation: 0.9250397600699216
+  rhythmicContrast: 0.4404312854167074
 purpose: []
